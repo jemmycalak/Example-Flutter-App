@@ -1,8 +1,9 @@
-# flutter_app
+# Example flutter_app
 
 A new Flutter application.
 
 ## Getting Started
+## - Let't other apps on other branchs :)
 
 This project is a starting point for a Flutter application.
 
